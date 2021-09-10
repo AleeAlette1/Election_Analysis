@@ -12,20 +12,20 @@ In support of the election audit, our Python script needs to deliver the followi
 8. The county with the highest turnout. 
 
 ## Election Audit Results:
-∙ After perfecting our script and executing our code it is shown that...
-∙ There were a total of 369,711 votes cast in the congressional election.
-∙ Votes by county were:
-    ∙ Jefferson: 38,855 total votes, a 10.5%
-    ∙ Denver: 306,055 total votes, a 82.8%
-    ∙ Arapahoe: 24,801 votes, a 6.7%
-∙ The county with the largest number of votes was Denver who again recorded 306,055 votes which is 82.8% of total votes. 
-∙ Votes each candidate received were:
-    ∙ Charles Casper Stockham: 85,213 votes, a 23.0%
-    ∙ Diana DeGette: 272,892 votes, a 73.8%
-    ∙ Raymon Anthony Doane: 11,606 votes, a 3.1%
-∙ Candidate Diana DeGette won the election with a final vote count of 272,892, a 73.8% of total votes. 
+* After perfecting our script and executing our code it is shown that...
+* There were a total of 369,711 votes cast in the congressional election.
+* Votes by county were:
+  - Jefferson: 38,855 total votes, a 10.5%
+  - Denver: 306,055 total votes, a 82.8%
+  - Arapahoe: 24,801 votes, a 6.7%
+* The county with the largest number of votes was Denver who again recorded 306,055 votes which is 82.8% of total votes. 
+* Votes each candidate received were:
+  - Charles Casper Stockham: 85,213 votes, a 23.0%
+  - Diana DeGette: 272,892 votes, a 73.8%
+  - Raymon Anthony Doane: 11,606 votes, a 3.1%
+* Candidate Diana DeGette won the election with a final vote count of 272,892, a 73.8% of total votes. 
 
-### The picture found at the end of this analysis is a screenshot of these results. 
+***The picture found at the end of this analysis is a screenshot of these results.***
 
 ## Election Audit Summary
 As we can see, our Python script provides a clear and easy to read summary of all the important details necessary for quick identification. Throughout module 3, we only delivered details about the candidates and the winner. However, once we incorporated the counties into our code we got a more clear picutre of where candidates received votes from. 
